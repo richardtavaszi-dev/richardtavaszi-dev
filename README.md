@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hallo, ich bin Richárd 👋  
+### Full‑Stack‑Entwickler in Ausbildung
 
-<!--
-**richardtavaszi-dev/richardtavaszi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich lerne und arbeite derzeit intensiv mit modernen Webtechnologien wie  
+**HTML, CSS, JavaScript/TypeScript, Angular, Git, REST‑APIs** und Clean‑Code‑Prinzipien.  
+Auf meinem Weg zum Full‑Stack‑Developer dokumentiere ich meine Projekte, meinen Lernfortschritt und meine praktischen Erfahrungen.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mein erstes veröffentlichtes Projekt
+**Number Guesser App (Live Demo)**  
+👉 https://ricsinumberapp.netlify.app/
+
+Ein kleines, aber funktionierendes Web‑Projekt, das ich mit TypeScript und modernen Frontend‑Techniken umgesetzt habe.
+
+---
+
+## 📚 Was ich aktuell lerne
+- TypeScript & moderne JavaScript‑Patterns  
+- Angular Framework  
+- Git & professionelle Workflow‑Strategien  
+- API‑Kommunikation & REST  
+- Clean Code & Best Practices  
+
+---
+
+## ❤️ Unterstütze meine Arbeit
+Wenn du meinen Lernweg und meine Projekte unterstützen möchtest:  
+👉 https://www.patreon.com/richardt_fullstackdev
+
+---
+
+## 📫 Kontakt
+Du findest mich hier auf GitHub oder bald auch auf weiteren Plattformen.
+
