@@ -7,7 +7,7 @@ Auf meinem Weg zum Full‑Stack‑Developer dokumentiere ich meine Projekte, mei
 
 ---
 
-## 🚀 Mein erstes veröffentlichtes Projekt
+## 🧑‍💻 Mein erstes veröffentlichtes Projekt
 **Number Guesser App (Live Demo)**  
 👉 https://richardngnumberguesser.netlify.app
 
@@ -24,7 +24,7 @@ Ein kleines, aber funktionierendes Web‑Projekt, das ich mit TypeScript und mod
 
 ---
 
-## ❤️ Unterstütze meine Arbeit
+## 🛠️ Unterstütze meine Arbeit
 Wenn du meinen Lernweg und meine Projekte unterstützen möchtest:  
 👉 https://www.patreon.com/richardt_fullstackdev
 
