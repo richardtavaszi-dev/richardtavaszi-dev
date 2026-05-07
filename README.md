@@ -1,4 +1,4 @@
-# Hallo, ich bin Richárd 👋  
+# Hallo, ich bin Richard 👋  
 ### Full‑Stack‑Entwickler in Ausbildung
 
 Ich lerne und arbeite derzeit intensiv mit modernen Webtechnologien wie  
