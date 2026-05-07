@@ -9,7 +9,7 @@ Auf meinem Weg zum Full‑Stack‑Developer dokumentiere ich meine Projekte, mei
 
 ## 🚀 Mein erstes veröffentlichtes Projekt
 **Number Guesser App (Live Demo)**  
-👉 https://ricsinumberapp.netlify.app/
+👉 https://richardngnumberguesser.netlify.app
 
 Ein kleines, aber funktionierendes Web‑Projekt, das ich mit TypeScript und modernen Frontend‑Techniken umgesetzt habe.
 
